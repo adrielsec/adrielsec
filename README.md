@@ -50,17 +50,19 @@ I'm **[`elsec`](https://x.com/adrielsec)**, a Hacker & Security Researcher and C
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielsec&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/adrielsec/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=adrielsec&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/adrielsec/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielsec&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
 
 <br><br>
 
+<h2 id="donate" align=''> Support⚡️</h2>
 
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-<p align="center">
-<a>🌱</a>
-</p>
+
+<details>
+<summary>Buy Me A Coffee</summary>
+<p align="center"><a href="https://ko-fi.com/adrielsec"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+</details>
+
+
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
